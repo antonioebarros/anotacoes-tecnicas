@@ -1,5 +1,3 @@
-
-
 # Dockerfile
 
 Um **Dockerfile** é um arquivo de texto que descreve, passo a passo, como construir uma imagem de container.
@@ -126,6 +124,8 @@ Container
 Aplicação em execução
 ```
 
+## Dokerfile otimizado
 
+```bash
 
-
+```
