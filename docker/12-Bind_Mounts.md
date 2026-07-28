@@ -56,6 +56,7 @@ docker run -it \
 
 | `-v` | `--mount` |
 |------|-----------|
+
 | Sintaxe mais curta. | Sintaxe mais explícita e legível. |
 | Cria automaticamente o diretório do host se ele não existir. | O diretório do host **deve existir**, caso contrário o comando falha. |
 | Mais usado em exemplos rápidos. | Recomendado para configurações mais complexas. |
